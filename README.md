@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ajay Raj Kushwaha
 
-<!--
-**ajayrajkushwaha/ajayrajkushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems-focused developer and researcher working on host-isolated runtime environments, native execution toolchains, and embedded analytical systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus & Technical Scope
+
+* **Runtime Isolation & Process Control:** Engineering zero-host-pollution development sandboxes, dynamic filesystem virtualization, and deterministic execution boundaries on local hardware.
+* **Native Systems & Interop:** Building high-performance C++ kernels, custom Python bindings via PyBind11, and minimizing runtime overhead at the OS boundary.
+* **Embedded Columnar Data:** Designing zero-copy analytical workflows and local vector architectures utilizing embedded engines like DuckDB.
+* **Mechanical Sympathy:** Constructing reproducible, self-contained computing environments optimized for constrained bare-metal hardware.
+
+---
+
+### Architectural Principles
+
+```text
+Host Isolation ──► Zero-Pollution Sandboxes ──► Native C++ Extensions ──► Deterministic Compute
