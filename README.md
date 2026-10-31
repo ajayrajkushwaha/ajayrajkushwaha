@@ -17,3 +17,10 @@ Systems-focused developer and researcher working on host-isolated runtime enviro
 
 ```text
 Host Isolation ──► Zero-Pollution Sandboxes ──► Native C++ Extensions ──► Deterministic Compute
+```
+
+---
+
+### Network & Verification
+
+* **LinkedIn:** [Ajay Raj Kushwaha](https://www.linkedin.com/in/ajayrajkushwaha/)
